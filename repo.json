@@ -7,7 +7,7 @@
     "categorized":true,
     "featured": [
         {
-          "name": "Color Manager",
+          "name": "Accent",
           "bundleid": "uwu.lrdsnow.colors",
           "banner": "icons/colorBanner0.png"
         },
@@ -15,9 +15,26 @@
           "name": "Resolution Setter",
           "bundleid": "uwu.lrdsnow.resset",
           "banner": "icons/ressetBanner0.png"
-        }
+        },
+        {
+          "name": "Color Manager",
+          "bundleid": "uwu.lrdsnow.colors",
+          "banner": "icons/colorBanner0.png"
+        },
     ],
     "packages": [
+        {
+            "name": "Accent",
+            "bundleid": "uwu.lrdsnow.accent",
+            "author": "Lrdsnow",
+            "description": "Change your Accent & Text Color!",
+            "version": "1.0",
+            "icon": "icons/color.png",
+            "banner":"icons/colorBanner1.png",
+            "path": "pkgs/uwu.lrdsnow.accent.purekfd",
+            "screenshots":[],
+            "category":"Theming"
+        },
         {
             "name": "SpringColors",
             "bundleid": "uwu.lrdsnow.colors",
